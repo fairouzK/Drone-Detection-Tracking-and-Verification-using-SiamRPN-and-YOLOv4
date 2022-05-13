@@ -11,6 +11,7 @@ This project is developed using anaconda. The installation steps are described b
 1. install packages in a conda virtual env
 
   conda install pytorch torchvision -c pytorch
+  
   pip install opencv-python imutils pyyaml yacs tqdm colorama matplotlib cython tensorboardX
 
 2. create a 'backup' folder in darknet folder and download the yolov4 weights to the same folder.
