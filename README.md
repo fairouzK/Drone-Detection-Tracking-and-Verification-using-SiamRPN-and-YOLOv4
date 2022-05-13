@@ -18,4 +18,12 @@ This project is developed using anaconda. The installation steps are described b
 3. run using 'python drone_detector_and_tracker_final.py --boxnum 2' to track 2 objects. 
 
 
+## YOLOv4
+Custom dataset was downloaded from kaggle: https://www.kaggle.com/dasmehdixtr/drone-dataset-uav
+steps to traning yolo with custom dataset can be found here: 
+https://github.com/AlexeyAB/darknet#how-to-train-tiny-yolo-to-detect-your-custom-objects 
+or 
+https://towardsdatascience.com/installing-ubuntu-20-04-lts-and-running-yolov4-and-yolov5-on-it-2ca0c93e244a
+
+
 ## Reference
