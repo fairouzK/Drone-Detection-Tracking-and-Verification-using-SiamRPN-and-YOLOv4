@@ -2,9 +2,10 @@
 
 This repo was based on and refined from these two repos:
 1: Updated siamRPN for multiple object tracking: https://github.com/adwardlee/multi-obj-tracking-siam.git
+
 2: Drone verification using siamRPN for control signals and control signal calculation: https://github.com/ghimireadarsh/Drone-Verification-using-SiamRPN-Tracker.git
 
-# How to run
+## How to run
 This project is developed using anaconda. The installation steps are described below.
 1. install packages in a conda virtual env
 
@@ -15,4 +16,4 @@ This project is developed using anaconda. The installation steps are described b
 3. run using 'python drone_detector_and_tracker_final.py --boxnum 2' to track 2 objects. 
 
 
-# Reference
+## Reference
