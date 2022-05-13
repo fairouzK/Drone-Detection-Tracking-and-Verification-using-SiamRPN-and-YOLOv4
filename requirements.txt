@@ -22,5 +22,5 @@ torchvision==0.9.1
 tqdm==4.60.0
 typing-extensions==3.7.4.3
 yacs==0.1.8
-CUDA 11.3
-python==3.7 or 3.9
+CUDA==11.3
+python==3.7
