@@ -24,7 +24,7 @@ Custom dataset was downloaded from <a href="https://www.kaggle.com/dasmehdixtr/d
 
 ## Results
 #### Detection and Tracking
-![Drones Tracked]("C:\Users\10004\Pictures\rtes\Picture2.png")
+![Drones Tracked](\results\Picture1)
 ![Drones classified as Good or Bad]("C:\Users\10004\Pictures\rtes\Picture3.png")
 
 Steps to training yolo with custom dataset can be found from <a href="https://github.com/AlexeyAB/darknet#how-to-train-tiny-yolo-to-detect-your-custom-objects"> AlexeyAb repo</a> or <a href="https://towardsdatascience.com/installing-ubuntu-20-04-lts-and-running-yolov4-and-yolov5-on-it-2ca0c93e244a"> This blog </a>
