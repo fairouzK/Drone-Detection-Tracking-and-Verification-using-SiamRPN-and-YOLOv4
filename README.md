@@ -24,13 +24,16 @@ Custom dataset was downloaded from <a href="https://www.kaggle.com/dasmehdixtr/d
 Steps to training yolo with custom dataset can be found from <a href="https://github.com/AlexeyAB/darknet#how-to-train-tiny-yolo-to-detect-your-custom-objects"> AlexeyAb repo</a> or <a href="https://towardsdatascience.com/installing-ubuntu-20-04-lts-and-running-yolov4-and-yolov5-on-it-2ca0c93e244a"> This blog </a>
 
 ### Results
-###### Detection and Tracking
+##### Detection and Tracking
 <img src= "/results/Picture1.png" width = "250" />
-###### Drone 0 moves vertically
+
+##### Drone 0 moves vertically
 <img src= "/results/Picture2.png" width = "250" />
-###### Drones classified as Good or Bad
+
+##### Drones classified as Good or Bad
 <img src= "/results/Picture3.png" width = "250" />
-###### Printed results
+
+##### Printed results
 <img src= "/results/Picture4.png" width = "250" />
 
 
