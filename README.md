@@ -23,9 +23,14 @@ python drone_detector_and_tracker_final.py --boxnum 2
 Custom dataset was downloaded from <a href="https://www.kaggle.com/dasmehdixtr/drone-dataset-uav">Kaggle</a>
 
 ## Results
-#### Detection and Tracking
-![Drones Tracked](results\Picture1.png)
-![Drones classified as Good or Bad]("C:\Users\10004\Pictures\rtes\Picture3.png")
+###### Detection and Tracking
+<img src= "/results/Picture1.png" width = "100" />
+###### Drone 0 moves vertically
+![Alt (Drone 0 moves vertically)](/results/Picture2.png)
+###### Drones classified as Good or Bad
+![Alt Drones classified as Good or Bad](/results/Picture3.png)
+###### Printed results
+![Alt Printed results](/results/Picture4.png)
 
 Steps to training yolo with custom dataset can be found from <a href="https://github.com/AlexeyAB/darknet#how-to-train-tiny-yolo-to-detect-your-custom-objects"> AlexeyAb repo</a> or <a href="https://towardsdatascience.com/installing-ubuntu-20-04-lts-and-running-yolov4-and-yolov5-on-it-2ca0c93e244a"> This blog </a>
 
