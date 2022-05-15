@@ -1,4 +1,4 @@
-# Drone-Detection-Tracking-and-Verification-using-SiamRPN-and-YOLOv4
+## Drone-Detection-Tracking-and-Verification-using-SiamRPN-and-YOLOv4
 
 This repo was based on and refined from these two repos:
 
@@ -6,7 +6,7 @@ This repo was based on and refined from these two repos:
 
 2: Drone verification using siamRPN for control signals and control signal calculation: https://github.com/ghimireadarsh/Drone-Verification-using-SiamRPN-Tracker.git
 
-## How to run
+### How to run
 This project is developed using anaconda. The installation steps are described below.
 1.	install packages in a conda virtual env
 <pre><code> 
@@ -19,20 +19,19 @@ pip install opencv-python imutils pyyaml yacs tqdm colorama matplotlib cython te
 python drone_detector_and_tracker_final.py --boxnum 2 
 </code></pre> 
 
-## YOLOv4
+### YOLOv4
 Custom dataset was downloaded from <a href="https://www.kaggle.com/dasmehdixtr/drone-dataset-uav">Kaggle</a>
-
-## Results
-###### Detection and Tracking
-<img src= "/results/Picture1.png" width = "100" />
-###### Drone 0 moves vertically
-![Alt (Drone 0 moves vertically)](/results/Picture2.png)
-###### Drones classified as Good or Bad
-![Alt Drones classified as Good or Bad](/results/Picture3.png)
-###### Printed results
-![Alt Printed results](/results/Picture4.png)
-
 Steps to training yolo with custom dataset can be found from <a href="https://github.com/AlexeyAB/darknet#how-to-train-tiny-yolo-to-detect-your-custom-objects"> AlexeyAb repo</a> or <a href="https://towardsdatascience.com/installing-ubuntu-20-04-lts-and-running-yolov4-and-yolov5-on-it-2ca0c93e244a"> This blog </a>
+
+### Results
+###### Detection and Tracking
+<img src= "/results/Picture1.png" width = "250" />
+###### Drone 0 moves vertically
+<img src= "/results/Picture2.png" width = "250" />
+###### Drones classified as Good or Bad
+<img src= "/results/Picture3.png" width = "250" />
+###### Printed results
+<img src= "/results/Picture4.png" width = "250" />
 
 
 ## Reference
