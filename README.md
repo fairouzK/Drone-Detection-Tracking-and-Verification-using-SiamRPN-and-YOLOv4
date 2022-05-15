@@ -22,7 +22,7 @@ python drone_detector_and_tracker_final.py --boxnum 2
 ## YOLOv4
 Custom dataset was downloaded from <a href="https://www.kaggle.com/dasmehdixtr/drone-dataset-uav">Kaggle</a>
 
-Steps to training yolo with custom dataset can be found from <a href="https://github.com/AlexeyAB/darknet#how-to-train-tiny-yolo-to-detect-your-custom-objects"> AlexyAb repo</a> or <a href="https://towardsdatascience.com/installing-ubuntu-20-04-lts-and-running-yolov4-and-yolov5-on-it-2ca0c93e244a"> This blog </a>
+Steps to training yolo with custom dataset can be found from <a href="https://github.com/AlexeyAB/darknet#how-to-train-tiny-yolo-to-detect-your-custom-objects"> AlexeyAb repo</a> or <a href="https://towardsdatascience.com/installing-ubuntu-20-04-lts-and-running-yolov4-and-yolov5-on-it-2ca0c93e244a"> This blog </a>
 
 
 ## Reference
