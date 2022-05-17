@@ -15,6 +15,7 @@ pip install opencv-python imutils pyyaml yacs tqdm colorama matplotlib cython te
 </code></pre>
 2.	create a 'backup' folder in darknet folder and download the yolov4 weights to the same folder.
 3.	To track objects, run using 
+
 one object: <pre><code> python drone_detector_and_tracker_final.py </code></pre>
 multiple objects: <pre><code> python drone_detector_and_tracker_final.py --boxnum 2 </code></pre> 
 
