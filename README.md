@@ -36,4 +36,7 @@ Steps to training yolo with custom dataset can be found from <a href="https://gi
 ##### Printed results
 <img src= "/results/Picture4.png" width = "250" />
 
+##### Authors
+Feruz Elmay and Biyanu Medenes
+
 ## Reference
